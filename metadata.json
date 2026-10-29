@@ -1,0 +1,6 @@
+{
+  "name": "NEON-X | CYBER CALCULATOR",
+  "description": "Next-generation futuristic cyberpunk calculator with standard, scientific, programmer, and electrical/electronic engineering (EEE) solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
